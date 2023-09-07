@@ -58,16 +58,13 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Support
+## MyBooks
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
-## Stay in touch
+![img_nest](https://github.com/Valderezpe/MyBook_Nest/assets/48490726/794f5b17-9ae8-4d65-9a11-36e7c594de48)
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+## MyBooks
 
-## License
+![img2_nest](https://github.com/Valderezpe/MyBook_Nest/assets/48490726/36ec3c26-4001-438e-9c91-da07ef640ed1)
 
-Nest is [MIT licensed](LICENSE).
+
