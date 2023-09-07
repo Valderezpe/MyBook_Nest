@@ -1,0 +1,28 @@
+GET http://localhost:8000
+
+### POST
+GET http://localhost:8000/categories
+
+###
+get  http://localhost:8000/categories/1
+
+###
+POST http://localhost:8000/categories
+Content-Type: application/json
+
+{
+    "name": "Category supertest",
+    "description": "Category supertest"
+}
+
+###
+PATCH http://localhost:8000/categories/1
+Content-Type: application/json
+
+{
+    "name": "Livro de programação Python",
+    "description": "aprendendo python"
+}
+
+###
+DELETE http://localhost:8000/categories/2
